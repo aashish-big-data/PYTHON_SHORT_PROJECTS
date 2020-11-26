@@ -1,2 +1,5 @@
 # PYTHON_SHORT_PROJECTS
-small implementations based on OOPS
+
+1:   program.py is the main driver program.
+
+
