@@ -1,3 +1,7 @@
+# -*- coding: utf-8 -*-
+"""
+@author: AASHISH
+"""
 # base class of all employees
 class Employee():
     def __init__(self, id, name):
